@@ -4,8 +4,8 @@ body {
     margin-top: 10px;
 }
 
-.center {
-    text-align: left;
+.container {
+    margin: auto;
 }
 
 .text-big {
@@ -17,7 +17,7 @@ body {
 }
 
 .img-medium {
-    text-align: center;
+    height: 200px;
 }
 
 
