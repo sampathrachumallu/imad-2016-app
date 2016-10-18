@@ -1,23 +1,5 @@
-body {
-    font-family: sans-serif;
-    background:url("download.jpg");
-    margin-top: 10px;
-}
-
-.container {
-    margin: auto;
-}
-
-.text-big {
-    font-size: 300%;
-}
-
-.bold {
-    font-weight: bold;
-}
-
-.img-medium {
-    height: 200px;
+p {
+    font-family: san-serif;
 }
 
 
@@ -39,7 +21,26 @@ body {
 
 
 
-</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </head>
 <body>
 
