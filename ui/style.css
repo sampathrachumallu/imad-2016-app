@@ -2,6 +2,9 @@ p {
     font-family: san-serif;
     margin-top: 250px;
 }
+body {
+    background-image: url("pic.jpg");
+}
 
 
 
