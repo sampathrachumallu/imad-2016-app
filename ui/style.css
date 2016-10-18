@@ -18,6 +18,11 @@ a:hover {
     color: black;
     text-decoration: underline;
 }
+.img {
+    height: 100px;
+    width: 100px;
+    margin: auto;
+}
 
 
 
