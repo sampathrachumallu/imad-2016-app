@@ -21,6 +21,8 @@ a:hover {
 }
 img{
     float: right;
+    margin: 0 0 10px 0px;
+    clear: left;
 }
 #link {
     padding-left: 800px;
