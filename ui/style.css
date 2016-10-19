@@ -35,7 +35,8 @@ header {
 }
 .second {
     float: right;
-    padding-right: 300px;
+    list-style-type: none;
+   
 }
 
 
