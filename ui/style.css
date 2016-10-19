@@ -33,6 +33,9 @@ header {
  .first{
     background: black;
 }
+.second {
+    float: right;
+}
 
 
 
