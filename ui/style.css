@@ -35,6 +35,7 @@ header {
 }
 .second {
     float: right;
+    padding-right: 300px;
 }
 
 
