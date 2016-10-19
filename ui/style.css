@@ -28,6 +28,10 @@ a:hover {
 #link {
     padding-left: 800px;
 }
+header {
+    background: red;
+    color: white;
+}
 
 
 
