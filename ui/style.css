@@ -33,6 +33,7 @@ header {
 }
  .first{
     background: black;
+    overflow: hidden;
 }
 .second {
     list-style-type: none;
