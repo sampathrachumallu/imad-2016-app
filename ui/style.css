@@ -51,7 +51,9 @@ article {
     .image-wrapper img {
         width: 100%;
     }
-    
+    .grid_8 {
+        background: white;
+    } 
 
     
     p {
