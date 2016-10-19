@@ -30,6 +30,7 @@ header {
     background: red;
     color: white;
     overflow: hidden;
+    height: 100px;
 }
  .first{
     background: black;
