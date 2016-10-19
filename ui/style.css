@@ -19,11 +19,8 @@ a:hover {
     color: blue;
     text-decoration: underline;
 }
-.img1 {
-    height: 125px;
-    width: 125px;
-    margin-left: 600px;
-    margin-top: 150px;
+.img{
+    float: right;
 }
 #link {
     padding-left: 800px;
