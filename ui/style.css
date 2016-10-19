@@ -35,7 +35,7 @@ header {
 .second {
     list-style-type: none;
     border: 1px solid black;
-   
+    width: 320px;
 }
 
 
