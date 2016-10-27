@@ -41,7 +41,7 @@ section {
     height: 500px;
     background: yellow;
     margin-bottom: 400px;
-    position: relative;
+    position: absolute;
 }
 .clearfix {
     overflow: auto;
