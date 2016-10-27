@@ -33,8 +33,7 @@ img {
     border: 1px solid black;
 }
 .main {
-    float: right;
     border: 1px solid black;
-    width: 400px;
+    width: 600px;
     height: 500px;
 }
