@@ -27,5 +27,6 @@ img {
     padding: 5px 5px;
 }
 .photo {
-    border: 1px solid white;
+    width: 400px;
+    border: 1px solid black;
 }
