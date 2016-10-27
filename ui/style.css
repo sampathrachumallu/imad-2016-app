@@ -28,5 +28,6 @@ img {
 }
 .photo {
     width: 400px;
+    height: 500px;
     border: 1px solid black;
 }
