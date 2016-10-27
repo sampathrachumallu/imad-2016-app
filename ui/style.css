@@ -13,4 +13,5 @@ body {
 }
 .clearfix {
     color: blue;
+    word-spacing: 6px;
 }
