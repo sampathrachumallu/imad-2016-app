@@ -40,7 +40,7 @@ section {
     width: 900px;
     height: 500px;
     background: yellow;
-    margin-top: -400px;
+    margin-bottom: 400px;
 }
 .clearfix {
     overflow: auto;
