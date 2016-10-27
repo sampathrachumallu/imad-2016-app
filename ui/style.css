@@ -1,6 +1,7 @@
 li {
     display: inline;
     padding-right: 10px;
+    font-size: 10px;
 }
 a {
     text-decoration: none;
@@ -12,7 +13,7 @@ body {
     background: url('http://www.themesrefinery.net/wp-content/uploads/2014/06/website-background-images-for-287671.jpg');
 }
 .clearfix {
-    color: blue;
+    color: white;
     word-spacing: 6px;
     font-family: helvetica;
 }
