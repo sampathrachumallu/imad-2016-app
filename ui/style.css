@@ -41,4 +41,5 @@ img {
     float: right;
     background: yellow;
     margin: 0 0 10px 10px;
+    clear: left;
 }
