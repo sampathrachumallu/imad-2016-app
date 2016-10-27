@@ -33,13 +33,15 @@ img {
     border: 1px solid black;
     background: blue;
     color: silver;
+    float: left;
 }
 .main {
     border: 1px solid black;
     width: 900px;
     height: 500px;
-    float: right;
     background: yellow;
     margin: 0 0 10px 10px;
-    clear: left;
+}
+.clearfix {
+    overflow: auto;
 }
