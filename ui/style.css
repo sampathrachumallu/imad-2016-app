@@ -1,106 +1,12 @@
-p {
-    font-family: san-serif;
-    margin-top: 50px;
-    word-spacing: 3.5px;
-}
-body {
-    background: url("http://www.themesrefinery.net/wp-content/uploads/2014/06/website-background-images-for-287671.jpg");
-}
-.first li {
+li {
     display: inline;
-    padding-left: 20px;
 }
 a {
     text-decoration: none;
-    color: white;
-    font-weight: bold;
 }
 a:hover {
-    color: blue;
-    text-decoration: underline;
-}
-img{
-    clear: left;
-    border: 1px solid black;
-}
-#link {
-    padding-left: 800px;
-}
-header {
-    background: red;
     color: white;
-    overflow: hidden;
-    height: 100px;
 }
- .first{
-    background: black;
-    overflow: hidden;
+body {
+    background: url('http://www.themesrefinery.net/wp-content/uploads/2014/06/website-background-images-for-287671.jpg');
 }
-.second {
-    list-style-type: none;
-    border: 1px solid black;
-    width: 320px;
-    float: right;
-}
-article {
-        width: 600px;
-}       
-    .image-wrapper {
-        width: 200px;
-        float: left;
-        padding-right: 25px;
-        padding-bottom: 10px;
-    }
-    .image-wrapper img {
-        width: 100%;
-    }
-    .grid_4 {
-        background: white;
-        width: 600px;
-    } 
-
-    
-    p {
-        font-size: 18px;
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</head>
-<body>
-
