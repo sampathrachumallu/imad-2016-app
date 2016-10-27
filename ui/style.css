@@ -2,7 +2,6 @@ li {
     display: inline;
     padding-right: 20px;
     font-size: 20px;
-    padding-top: 5px;
 }
 a {
     text-decoration: none;
@@ -22,6 +21,7 @@ body {
     padding-left: 700px;
 }
 li a:hover {
-    background: silver;
+    background: gold;
     border: 1px red;
+    padding: 0px 8px;
 }
