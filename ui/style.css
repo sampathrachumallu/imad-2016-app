@@ -23,5 +23,5 @@ body {
 li a:hover {
     background: red;
     border: 1px red;
-    padding: 8px 2px;
+    padding: 8px 1px;
 }
