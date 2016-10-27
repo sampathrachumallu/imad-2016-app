@@ -31,3 +31,7 @@ img {
     height: 500px;
     border: 1px solid black;
 }
+.main {
+    float: right;
+    border: 1px solid black;
+}
