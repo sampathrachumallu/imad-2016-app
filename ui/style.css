@@ -24,4 +24,5 @@ li a:hover {
     background: red;
     border: 1px red;
     padding: 8px 1px;
+    font-weight: bold;
 }
