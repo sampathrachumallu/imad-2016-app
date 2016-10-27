@@ -7,7 +7,7 @@ a {
     text-decoration: none;
 }
 a:hover {
-    color: black;
+    color: white;
 }
 body {
     background: url('http://www.themesrefinery.net/wp-content/uploads/2014/06/website-background-images-for-287671.jpg');
@@ -23,5 +23,5 @@ body {
 li a:hover {
     background: gold;
     border: 1px red;
-    padding: 0px 8px;
+    padding: 8px 0px;
 }
