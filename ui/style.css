@@ -1,5 +1,6 @@
 li {
     display: inline;
+    border-right: 5px;
 }
 a {
     text-decoration: none;
