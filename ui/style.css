@@ -32,6 +32,7 @@ img {
     border: 1px solid black;
 }
 .main {
-    float: left;
+    float: right;
     border: 1px solid black;
+    width: 400px;
 }
