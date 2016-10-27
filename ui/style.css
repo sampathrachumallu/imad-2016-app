@@ -16,3 +16,6 @@ body {
     word-spacing: 6px;
     font-family: helvetica;
 }
+.link {
+    padding-left: 200px;
+}
