@@ -9,7 +9,7 @@ a {
 }
 a:hover {
     color: white;
-    border: 1px;
+    border: 1px solid;
 }
 body {
     background: url('http://www.themesrefinery.net/wp-content/uploads/2014/06/website-background-images-for-287671.jpg');
