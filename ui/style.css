@@ -31,14 +31,14 @@ img {
     width: 350px;
     height: 500px;
     border: 1px solid black;
-    background: orange;
+    background: red;
     color: silver;
 }
 section {
     border: 1px solid black;
     width: 950px;
     height: 500px;
-    background: orange;
+    background: red;
     margin-bottom: 400px;
     float: right;
 }
