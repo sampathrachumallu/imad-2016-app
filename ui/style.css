@@ -33,7 +33,6 @@ img {
     border: 1px solid black;
     background: blue;
     color: silver;
-    float: right;
 }
 section {
     border: 1px solid black;
@@ -41,6 +40,7 @@ section {
     height: 500px;
     background: yellow;
     margin-bottom: 400px;
+    float: right;
 }
 .clearfix {
     overflow: auto;
