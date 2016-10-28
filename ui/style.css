@@ -32,7 +32,7 @@ img {
     height: 500px;
     border: 1px solid black;
     background: red;
-    color: silver;
+    color: yellow;
 }
 section {
     border: 1px solid black;
@@ -46,6 +46,6 @@ section {
     overflow: auto;
 }
 h1 {
-    color: blue;
+    color: red;
     font-family: AR JULLIAN;
 }
