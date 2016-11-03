@@ -1,14 +1,22 @@
 li {
-    display: inline;
-    padding-right: 20px;
+    display: inline-block;
+    margin-right: 20px;
     font-size: 20px;
     font-weight: bold;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+li:hover {
+    background: blue;
+    color: white;
 }
 a {
     text-decoration: none;
+    color: black;
 }
 a:hover {
-    color: blue;
+    color: white;
 }
 body {
     background: white;
@@ -18,34 +26,144 @@ body {
     word-spacing: 6px;
     font-family: helvetica;
 }
-#link {
-    padding-left: 700px;
-}
+#login {
+    float: right;
+    background: red;
+    width: 56px;
+    height: 22px;
+    text-align: center;
+    border: 1px solid red;
+    color: white;
+   }
+   .log {
+    color: white;
+    padding-left: 4px; 
+   }
+   #login:hover {
+    opacity: 0.4;
+   }
+   ul {
+    margin-top: 0px;
+   }
+   
 
-img {
+
+
+.profile {
     border-radius: 50%;
     padding: 20px 80px;
 }
 .photo {
     width: 350px;
-    height: 500px;
+    height: 650px;
     border: 1px solid black;
-    color: gold;
+    color: silver;
+    background: blue;
+    font-family: arial;
+    word-spacing: 2px;
+}
+.line {
+    color: white;
+    background: white;
+    width: 310px;
+    height: 2px;
+    margin-left: 17px;
 }
 section {
-    border: 1px solid black;
+    border: 1px solid lightgrey;
     width: 950px;
-    height: 500px;
+    height: 650px;
     margin-bottom: 400px;
     float: right;
+    color: black;
+    font-family: ar JULLIAN;
+    background: white;
+}
+section p {
+    font-size: 25px;
+    margin-bottom: -3px;
+    margin-top: 4px;
+    padding-left: 15px;
+}
+section hr {
+    color: silver;
+    width: 910px;
+    padding-left: 15px;
 }
 .clearfix {
     overflow: auto;
 }
 h1 {
-    color: black;
-    font-family: AR JULLIAN;
+    color: white;
+    font-family: ar JULLIAN;
+    background: blue;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 25px;
+    padding-bottom: 0px;
+    overflow: hidden;
+    height: 60px;
 }
 img:hover {
-    opacity: 0.6;
+    opacity: 0.8;
+}
+.small {
+    line-height: 1.4;
+}
+pre {
+    font-family: ar JULLIAN;
+    font-size: 15px ;
+    padding-left: 16px;
+    line-height: 1.4;
+    margin-bottom: -10px;
+}
+h2 {
+    font-family: ar JULLIAN;
+}
+#tag {
+    font-size: 22px;
+    font-weight: bold;
+    color: blue;
+    margin-top: 23px;
+}
+.details {
+    color : blue;
+    font-family: ar JULLIAN;
+    width: 400px;
+    line-height: 1.8;
+}
+.det {
+    font-size: 18px;
+    color : black;
+    font-weight: bold;
+}
+
+p :: first-letter {
+    color: blue;
+}
+.com {
+    float: right;
+    margin-right: 50px;
+    margin-top: -50px;
+    height: 550px;
+    width: 400px;
+}
+b {
+    color: blue;
+}
+.details hr {
+    width: 400px;
+    margin-left: 15px;
+}
+strong {
+    color: orange;
+    font-family: ar JULLIAN;
+}
+#tag hr {
+    width: 400px;
+    margin-left: 15px;
+    color: red;
+}
+#tag {
+    font-family: century;
 }
