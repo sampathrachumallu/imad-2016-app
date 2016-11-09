@@ -69,7 +69,7 @@ body {
     height: 2px;
     margin-left: 17px;
 }
-section {
+.previous {
     border: 1px solid lightgrey;
     width: 950px;
     height: 650px;
@@ -79,13 +79,24 @@ section {
     font-family: ar JULLIAN;
     background: white;
 }
-section p {
+.intro {
+    border: 1px solid lightgrey;
+    width: 950px;
+    height: 200px;
+    margin-bottom: 400px;
+    float: right;
+    color: black;
+    font-family: ar JULLIAN;
+    background: white;
+}
+
+.previous p {
     font-size: 25px;
     margin-bottom: -3px;
     margin-top: 4px;
     padding-left: 15px;
 }
-section hr {
+.previous hr {
     color: silver;
     width: 910px;
     padding-left: 15px;
