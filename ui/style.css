@@ -169,6 +169,7 @@ b {
 strong {
     color: orange;
     font-family: ar JULLIAN;
+    float: right;
 }
 #tag hr {
     width: 400px;
