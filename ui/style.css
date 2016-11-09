@@ -182,3 +182,6 @@ strong {
 .tit {
     font-size: 25px;
 }
+.tit b {
+    color: black;
+}
