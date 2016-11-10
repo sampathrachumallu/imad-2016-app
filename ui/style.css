@@ -150,6 +150,9 @@ h2 {
     color : black;
     font-weight: bold;
 }
+i {
+    color: yellow;
+}
 
 p :: first-letter {
     color: blue;
