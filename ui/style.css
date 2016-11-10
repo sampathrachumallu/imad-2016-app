@@ -199,10 +199,11 @@ footer {
 }
 label {
     display: block;
+    color: white;
 }
 textarea {
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 300px;
 }
 .some {
     float: right;
