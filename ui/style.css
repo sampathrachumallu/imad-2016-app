@@ -62,6 +62,7 @@ body {
     background: blue;
     font-family: arial;
     word-spacing: 2px;
+    margin-bottom: 15px;
 }
 .line {
     color: white;
