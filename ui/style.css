@@ -62,7 +62,6 @@ body {
     background: blue;
     font-family: arial;
     word-spacing: 2px;
-    margin-bottom: -75px;
 }
 .line {
     color: white;
@@ -179,4 +178,9 @@ strong {
 }
 #tag {
     font-family: century;
+}
+.box {
+    width: 600px;
+    height: 200px;
+    border: 1px solid black;
 }
