@@ -203,10 +203,11 @@ label {
     color: white;
 }
 textarea {
+    margin-top: 5px;
     height: 130px;
     width: 250px;
 }
 .some {
     float: right;
-    margin-right: 20px;
+    margin-right: 35px;
 }
