@@ -194,6 +194,7 @@ strong {
     width: 350px;
     height: 300px;
     border: 1px solid black;
+    float: right;
 }
 .box3 {
     width: 350px;
