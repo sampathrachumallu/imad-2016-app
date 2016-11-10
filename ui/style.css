@@ -195,6 +195,7 @@ strong {
     background: blue;
 }
 footer {
+    margin-top: 10px;
     width: 1150px;
     height: 200px;
 }
