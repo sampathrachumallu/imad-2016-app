@@ -199,7 +199,7 @@ footer {
 }
 label {
     display: block;
-    color: white;
+    font-weight: bold;
 }
 textarea {
     height: 150px;
