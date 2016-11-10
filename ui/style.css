@@ -200,6 +200,7 @@ footer {
 label {
     display: block;
     font-weight: bold;
+    color: white;
 }
 textarea {
     height: 150px;
