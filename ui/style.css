@@ -34,11 +34,11 @@ body {
     text-align: center;
     border: 1px solid red;
     color: white;
+    margin-top: 2px;
    }
    .log {
     color: white;
     padding-left: 4px;
-    margin-top: 2px;
    }
    #login:hover {
     opacity: 0.4;
