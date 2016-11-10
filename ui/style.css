@@ -183,11 +183,7 @@ strong {
 #tag {
     font-family: century;
 }
-.box {
-    width: 1200px;
-    height: 200px;
-    border: 1px solid black;
-}
+
 
 
 footer {
@@ -204,8 +200,4 @@ textarea {
     margin-top: 5px;
     height: 130px;
     width: 250px;
-}
-.some {
-    float: right;
-    margin-right: 35px;
 }
