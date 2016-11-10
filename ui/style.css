@@ -184,17 +184,23 @@ strong {
     font-family: century;
 }
 .box {
-    width: 650px;
-    height: 400px;
+    width: 350px;
+    height: 300px;
     border: 1px solid black;
     float: right;
     margin-top: -385px;
 }
 .box2 {
-    width: 645px;
-    height: 400px;
+    width: 350px;
+    height: 300px;
     border: 1px solid black;
 }
+.box3 {
+    width: 350px;
+    height: 300px;
+    border: 1px solid black;
+}
+
 footer {
     margin-top: 10px;
     width: 1335px;
