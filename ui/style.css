@@ -194,3 +194,7 @@ strong {
     border: 1px solid black;
     background: blue;
 }
+footer {
+    width: 1000px;
+    height: 200px;
+}
