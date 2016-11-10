@@ -37,7 +37,8 @@ body {
    }
    .log {
     color: white;
-    padding-left: 4px; 
+    padding-left: 4px;
+    margin-top: 2px;
    }
    #login:hover {
     opacity: 0.4;
