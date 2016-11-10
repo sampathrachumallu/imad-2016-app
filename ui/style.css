@@ -181,7 +181,8 @@ strong {
     font-family: century;
 }
 .box {
-    width: 600px;
-    height: 200px;
+    width: 950px;
+    height: 500px;
     border: 1px solid black;
+    float: right;
 }
