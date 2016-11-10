@@ -180,6 +180,7 @@ strong {
     font-family: century;
 }
 .college {
-    width: 1300px;
+    width: 700px;
+    height: 400px;
     border: 1px solid grey;
 }
