@@ -208,4 +208,5 @@ input[type=text] {
 .some {
     float: right;
     border: 1px solid black;
+    display: block;
 }
