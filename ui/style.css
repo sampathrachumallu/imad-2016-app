@@ -195,7 +195,7 @@ strong {
 footer {
     margin-top: 10px;
     width: 1335px;
-    height: 150px;
+    height: 200px;
 }
 input[type=text] {
     width: 50%;
@@ -204,4 +204,8 @@ input[type=text] {
     display: inline-block;
     border: 1px solid #ccc;
     box-sizing: border-box;
+}
+.some {
+    float: right;
+    border: 1px solid black;
 }
