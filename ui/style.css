@@ -46,7 +46,9 @@ body {
    ul {
     margin-top: 0px;
    }
-   
+   * {
+       box-sizing: border-box;
+   }
 
 
 
